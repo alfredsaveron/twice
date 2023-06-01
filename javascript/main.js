@@ -34,7 +34,13 @@ const songLyrics = [
   "I can't stop me, can't stop me",
   "Cry for me, cry for me",
   "Alcohol-Free, alcohol-free",
-  "Scientist, I love it"
+  "Scientist, I love it",
+  "다 말해봐, but 시작은 이렇게 해",
+  "Baby, 내 답은 뻔하잖아, yes or yes?",
+  "Don't stop and just replay, replay (yeah, that's my only request)",
+  "Baby, 날 안고 달콤하게, tell me now (달콤하게, just tell me now)",
+  "Tell me what you want, tell me what you need",
+  "Talk that talk, 딱 한 마디 (love, love, love), talk that talk, L-O-V-E",
 ];
 
 const subredditName = 'YOUR_SUBREDDIT';
