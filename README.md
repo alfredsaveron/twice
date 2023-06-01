@@ -9,3 +9,5 @@ Remember to install the **snoowrap** and other (?) random libraries (```npm inst
 This code checks if the comment or comments includes the word "TWICE" or any of the TWICE member names in the ```memberNames``` array. If it finds a match, it randomly selects a TWICE song lyric from the ```songLyrics``` array and replies to the comment. The bot then waits for the specified cooldown time before continuing to monitor new comments.
 
 > **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
+
+<img width="40%" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dahyun_signature.svg/1920px-Dahyun_signature.svg.png?20210612093654">
