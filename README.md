@@ -1,6 +1,6 @@
 <img width="20%" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_of_TWICE.svg/800px-Logo_of_TWICE.svg.png?20210624124205">
 
-> Reddit bot that gives TWICE lyrics when TWICE or members mentioned.
+> Reddit bot that gives TWICE lyrics when TWICE or members mentioned. 🎶
 
 # JavaScript
 
