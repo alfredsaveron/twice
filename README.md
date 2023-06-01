@@ -10,4 +10,4 @@ This code checks if the comment or comments includes the word "TWICE" or any of 
 
 > **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
 
-<img width="40%" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dahyun_signature.svg/1920px-Dahyun_signature.svg.png?20210612093654">
+<img width="20%" align="left" src="https://cdn.discordapp.com/attachments/745937151094423642/1113900419920437318/1685644934902.png">
