@@ -11,3 +11,9 @@ This code checks if the comment or comments includes the word "TWICE" or any of 
 > **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
 
 <img width="20%" align="left" src="https://cdn.discordapp.com/attachments/745937151094423642/1113900419920437318/1685644934902.png">
+
+# TypeScript
+
+Make sure to replace the placeholders (```YOUR_USER_AGENT```, ```YOUR_CLIENT_ID```, ```YOUR_CLIENT_SECRET```, ```YOUR_REDDIT_USERNAME```, ```YOUR_REDDIT_PASSWORD```, ```SUBREDDIT_NAME```) with your actual **Reddit API** credentials and subreddit name. Also, feel free to add more lyrics to the array or arrays.
+
+> **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
