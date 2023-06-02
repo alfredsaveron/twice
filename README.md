@@ -2,6 +2,8 @@
 
 > Reddit bot that gives TWICE lyrics when TWICE or members mentioned. 🎶
 
+> 트와이스나 멤버들이 언급되면 트와이스에게 가사를 주는 레딧봇.
+
 # JavaScript
 
 Remember to install the **snoowrap** and other (?) random libraries (```npm install snoowrap```) before **running the script**.
