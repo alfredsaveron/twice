@@ -1,0 +1,18 @@
+{
+  "name": "twice",
+  "version": "1.0.0",
+  "description": "Reddit bot that gives TWICE lyrics when TWICE or members mentioned.",
+  "main": "javascript/main.js",
+  "scripts": {
+    "start": "node javascript/main.js"
+  },
+  "keywords": [
+    "reddit",
+    "bot",
+    "twice"
+  ],
+  "author": "Alf",
+  "dependencies": {
+    "snoowrap": "^1.20.0"
+  }
+}
