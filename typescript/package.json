@@ -1,0 +1,19 @@
+{
+  "name": "twice",
+  "version": "1.0.0",
+  "description": "Reddit bot that gives TWICE lyrics when TWICE or members mentioned.",
+  "main": "typescript/main.ts",
+  "scripts": {
+    "start": "node typescript/main.ts"
+  },
+  "keywords": [
+    "reddit",
+    "bot",
+    "twice"
+  ],
+  "author": "Alf",
+  "license": "MIT",
+  "dependencies": {
+    "praw": "^7.4.0"
+  }
+}
