@@ -12,7 +12,6 @@
     "twice"
   ],
   "author": "Alf",
-  "license": "MIT",
   "dependencies": {
     "praw": "^7.4.0"
   }
