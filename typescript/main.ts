@@ -3,11 +3,11 @@ import random from 'random';
 
 // Reddit API credentials
 const reddit = new snoowrap({
-  userAgent: 'YOUR_USER_AGENT',
-  clientId: 'YOUR_CLIENT_ID',
-  clientSecret: 'YOUR_CLIENT_SECRET',
-  username: 'YOUR_REDDIT_USERNAME',
-  password: 'YOUR_REDDIT_PASSWORD'
+  userAgent: 'USER_AGENT',
+  clientId: 'CLIENT_ID',
+  clientSecret: 'CLIENT_SECRET',
+  username: 'REDDIT_USERNAME',
+  password: 'REDDIT_PASSWORD'
 });
 
 // Members
